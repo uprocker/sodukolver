@@ -1,0 +1,78 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  
+  "contributors": [
+    {
+      "login": "uprocker",
+      "name": "Ali Tahouri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5226630?s=400&u=7d839ec4cd605ec2fc0abcb8cfa48cd38571c953&v=4",
+      "profile": "https://github.com/uprocker",
+      "contributions": [
+        "code"
+      ]
+    },   
+    {
+      "login": "bmorrellbunnings",
+      "name": "bmorrellbunnings",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82982726?v=4",
+      "profile": "https://github.com/bmorrellbunnings",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "shebballi",
+      "name": "shebballi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82989934?v=4",
+      "profile": "https://github.com/shebballi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "graemechristie",
+      "name": "Graeme Christie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1361894?v=4",
+      "profile": "http://graemechristie.github.io/graemechristie/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "rmemon-bunnings",
+      "name": "Rahman Memon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/21072634?v=4",
+      "profile": "https://github.com/rmemon-bunnings",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "echapmanFromBunnings",
+      "name": "Eric Chapman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46700551?v=4",
+      "profile": "http://developer.api.bunnings.com.au",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "lputland-bunnings",
+      "name": "lputland-bunnings",
+      "avatar_url": "https://avatars.githubusercontent.com/u/49546505?v=4",
+      "profile": "https://github.com/lputland-bunnings",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 2,
+  "projectName": "sodukolver",
+  "projectOwner": "uprocker",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
