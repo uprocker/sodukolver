@@ -1,7 +1,9 @@
 ## sodukolver
 soduko solver
 
-some code to solve soduko!
+1 - some code to solve soduko!
+2 - some code to solve soduko!
+
 
 Thanks goes to these wonderful people:
 <!-- markdownlint-disable -->
